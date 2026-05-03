@@ -33,6 +33,7 @@ Pandas
 Matplotlib
 Seaborn
 Jupyter Notebook
+Power BI
 
 # Data Cleaning & Preprocessing
 
@@ -88,6 +89,34 @@ The number of bedrooms affects pricing, but location and property size have stro
 # 5. Several localities offer better value per square foot
 
 Locations such as Chandapura and Bommasandra Industrial Area emerged as relatively affordable options.
+
+# This project also includes an interactive Power BI dashboard built using the cleaned housing dataset.
+
+The dashboard provides:
+
+Market overview metrics
+Locality-wise pricing analysis
+Property feature impact analysis
+Interactive filtering for location-based exploration
+Dashboard Highlights
+
+# Market Overview
+
+Total Listings
+Average Property Price
+Average Price Per Sqft
+Average BHK
+
+# Location Analysis
+
+Premium localities
+Best value locations
+
+# Feature Analysis
+
+Property size vs price
+BHK-based pricing patterns
+Feature correlation insights
 
 # Conclusion
 
